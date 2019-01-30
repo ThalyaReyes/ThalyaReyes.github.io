@@ -2,5 +2,5 @@ title: Thalya Reyes
 description: Phd Student at UMN
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 baseurl: ""
